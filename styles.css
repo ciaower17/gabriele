@@ -1,0 +1,106 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    color: white;
+}
+
+.big {
+    max-width: 380px;
+    height: 600px;
+    background-color: hsl(216, 50%, 16%);
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 12px;
+    box-shadow: 0 0 20px 20px hsl(216, 68%, 9%);
+}
+
+.eth {
+    height: 320px;
+    padding-top: 20px;
+    width: 88%;
+    margin: auto;
+}
+
+.eth img {
+    width: 100%;
+    border-radius: 12px;
+    height: 100%;
+}
+
+p {
+    margin-left: 22px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Outfit', sans-serif;
+}
+
+.text {
+    font: 18px;
+    font-family: 'Outfit', sans-serif;
+    width: 90%;
+    color: hsl(215, 51%, 70%);
+}
+
+.price {
+    display: inline;
+}
+
+.time {
+    padding-left: 26%;
+    font: 14px;
+    font-family: 'Outfit', sans-serif;
+    color: hsl(215, 51%, 70%);
+    padding-right: 5%;
+}
+
+.pricep {
+    padding-top: 10px;
+    padding-bottom: 8%;
+}
+
+.eth1 {
+    color: hsl(178, 100%, 50%);
+    font-family: 'Outfit', sans-serif
+}
+
+.footer img {
+    width: 10%;
+    border: 1px solid white;
+    border-radius: 100%;
+    margin-left: 20px;
+}
+
+.footext {
+    font-family: 'Outfit', sans-serif;
+    color: hsl(215, 51%, 70%);
+    position: relative;
+    bottom: 11px;
+    left: 5px;
+}
+
+.ne {
+    display: inline;
+    margin: auto;
+}
+
+.te {
+    font-family: 'Outfit', sans-serif;
+    position: relative;
+    bottom: 11px;
+    left: 5px;
+}
+
+.footer {
+    padding-top: 5%;
+    margin: auto;
+}
+
+hr {
+    width: 90%;
+    margin: auto;
+    color: hsl(215, 32%, 27%);
+    border-color: hsl(215, 32%, 27%);
+    border-top: 1px;
+}
